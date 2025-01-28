@@ -1,6 +1,6 @@
 # Hi there, I'm ShamTange! 👋
 
-Welcome to my GitHub profile! I'm passionate about software development and always eager to learn and explore new technologies. Here's a little about me:
+Welcome to my GitHub profile! I'm passionate about Data analyst and software development and always eager to learn and explore new technologies. Here's a little about me:
 
 ## 🔧 Technologies & Tools
 
