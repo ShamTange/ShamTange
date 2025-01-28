@@ -35,6 +35,6 @@ Here are a few projects I've been working on:
 
 ## 📈 GitHub Stats
 
-![ShamTange's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShamTange&show_icons=true&theme=radical)
+![ShamTange's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShamTange&show_icons=true&theme=radical..
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just have a chat about tech.
