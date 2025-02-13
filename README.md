@@ -34,7 +34,7 @@ Here are a few projects I've been working on:
 ## 📫 How to Reach Me
 
 - Portfolio: [shamtange.netlify.app](https://shamtange.netlify.app/)
-- Email: [shamtange@example.com](mailto:shamtange@example.com)
+- Email: [shamtange123@gmail.com.com](mailto:shamtange@example.com)
 - LinkedIn: [ShamTange](https://www.linkedin.com/in/shamtange)
 
 ## 📈 GitHub Stats
