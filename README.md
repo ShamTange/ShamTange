@@ -17,15 +17,15 @@ Welcome to my GitHub profile! I'm passionate about Data analyst and software dev
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-👨‍💻 My Portfolio: [shamtange.github.io](https://shamtange.netlify.app/)
-- 📫 How to reach me: **shamtange18@gmail.com**
+👨‍💻 My Portfolio: [https://shamtange.netlify.app](https://shamtange.netlify.app/)
+- 📫 How to reach me: **shamtange123@gmail.com**
 - ⚡ Fun fact: I love simplifying complex tech for beginners 🚀
 
 ## 🚀 Projects
 
 ## 🌱 Currently Learning
 
-- Advanced JavaScript concepts
+- Advanced ETL concepts
 - Cloud computing with AWS
 - Data structures and algorithms
 
