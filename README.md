@@ -23,12 +23,6 @@ Welcome to my GitHub profile! I'm passionate about Data analyst and software dev
 
 ## 🚀 Projects
 
-Here are a few projects I've been working on:
-
-- **[Project Name](https://github.com/ShamTange/project-name)**: A brief description of the project.
-- **[Another Project](https://github.com/ShamTange/another-project)**: Another brief description of the project.
-- **[Yet Another Project](https://github.com/ShamTange/yet-another-project)**: A brief description of this project as well.
-
 ## 🌱 Currently Learning
 
 - Advanced JavaScript concepts
