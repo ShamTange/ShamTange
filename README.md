@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm passionate about Data analyst and software dev
 
 - 📊 [Superstore Data Analysis with Power BI](https://github.com/ShamTange/-SUPER-STORE-Data-Analysis-Project-)
 - 🔐 [Security in E-Transaction Detection System](https://github.com/ShamTange/Security-in-E-Transaction-Project-)
-- #### 🔐 More Projects
+- 🔐 [More Projects](https://github.com/ShamTange/Security-in-E-Transaction-Project-)
 
 ---
 
