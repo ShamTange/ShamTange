@@ -79,8 +79,7 @@ Welcome to my GitHub profile! I'm passionate about building data-driven applicat
 ## 📈 GitHub Stats  
 
 
-![ShamTange's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShamTange&show_icons=true&theme=radical)
-
+[![ShamTange's GitHub stats](https://github.com/ShamTange)
 
 ---
 
